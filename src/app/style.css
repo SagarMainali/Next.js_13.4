@@ -1,5 +1,9 @@
 body {
-     padding: 20px;
+     padding: 10px;
+     min-height: 100vh;
+     display: flex;
+     flex-direction: column;
+     background-color: pink;
 }
 
 h2 {
@@ -32,8 +36,9 @@ a {
 
 footer {
      text-align: center;
-     padding: 12px 0;
+     padding: 20px 0;
      background-color: rgb(60, 60, 60);
      color: white;
-     border-radius: 6px;
+     border-radius: 4px;
+     margin-top: auto;
 }

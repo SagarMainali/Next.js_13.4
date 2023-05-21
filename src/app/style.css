@@ -54,3 +54,12 @@ footer {
      border-radius: 4px;
      margin-top: auto;
 }
+
+ul{
+     padding: 0 20px;
+}
+
+.products-list>li {
+     list-style: inherit;
+     margin: 5px 0;
+}

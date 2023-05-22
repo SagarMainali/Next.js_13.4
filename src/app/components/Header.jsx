@@ -6,7 +6,7 @@ export default function Header() {
      return (
           <header>
                <Link href='/' className="logo">
-                    <Image src='/reddit.svg' height={50} width={50}/>
+                    <Image src='/reddit.svg' alt="logo" height={50} width={50}/>
                </Link>
                <nav>
                     <li><Link href='/'>Home</Link></li>
